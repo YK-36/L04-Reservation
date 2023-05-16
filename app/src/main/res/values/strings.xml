@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="n">Name: </string>
+    <string name="mn">Mobile Number</string>
+    <string name="gs">Group Size</string>
+    <string name="s">Smoking Area</string>
+    <string name="ns">Non-Smoking Area</string>
+    <string name="pa">Pick Seat Area</string>
+    <string name="submit">Submit</string>
+    <string name="sd">Select Date to Reserve</string>
+    <string name="st">Select Time to Reserve</string>
+    <string name="cnf">Confirm Reservation</string>
+    <string name="reset">Reset</string>
+</resources>
